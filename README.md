@@ -7,7 +7,7 @@ Welcome to the world of Pokémon! Explore the vast collection of Pokémon creatu
 
 **Resources**
 
-The "Pokemon Pokedex" is a responsive, front-end web application designed to showcase and provide information about various Pokémon creatures from the popular Pokémon franchise. It offers a visually engaging user interface where visitors can search for and explore Pokémon profiles, images and names. The page also features navigation buttons for easy access to individual Pokémon profiles.
+This front-end web application offers a responsive and visually engaging experience for users to search and explore captivating Pokémon GIFs. It also provides easy access to individual GIFs through intuitive navigation buttons.
 
 .HTML5
 .CSS
